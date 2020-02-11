@@ -22,6 +22,7 @@ data.document = "CREATED_DOC_URL";
 data.from_email = "user@provider.com";
 data.message = "Please sign this document";
 data.needs_to_sign = true;
+data.who = "o";
 
 const callback = (error, data, response) => {
     if (error) {
