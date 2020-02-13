@@ -12,6 +12,9 @@ const api = new SignrequestClient.DocumentsApi();
 const data = new SignrequestClient.Document(); // Document |
 data.file_from_url = 'YOUR_DOCUMENT_URL';
 
+// In case of a Template
+// data.template = "https://yourteam.signrequest.com/api/v1/templates/uuid/"
+
 const callback = (error, data) => {
   if (error) {
     console.error(error);
