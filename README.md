@@ -2,7 +2,7 @@
 
 ## Boiler Plate to Create New Documents, Sign Requests and Quick Create Document-Sign Requests using Node.js
 
-### Gettin Started
+### Getting Started
 
 Clone the repository.
 
