@@ -1,6 +1,6 @@
 # Boiler Plate - Sign Request API (Node Client)
 
-## Boiler Plate to Create New Documents, Sign Requests and Quick Create Document-Sign Requests using Node.js
+## Boiler Plate to Create New Documents, Sign Requests and Quickly Create Document-Sign Requests using Node.js
 
 ### Getting Started
 
